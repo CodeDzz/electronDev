@@ -1,2 +1,2 @@
 # electronDev
-Electron app that can be auto updated
+an Electron.js app that can be auto updated
